@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "317367612450",
+    "project_id": "imagetotextfyp",
+    "storage_bucket": "imagetotextfyp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317367612450:android:3189b617d6356115e0c67b",
+        "android_client_info": {
+          "package_name": "com.example.image_to_text_project_fyp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPXZnfMRq3PhzPlFwCLOXL6_WMyvPS9cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
